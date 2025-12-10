@@ -18,7 +18,7 @@ public class StandAloneTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		// changes to see for the CI/CD integration
 		String mail = "viralact@gmail.com";
 		String psw = "Password@123";
 		String prodname = "ZARA COAT 3";
